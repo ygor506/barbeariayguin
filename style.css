@@ -1,10 +1,11 @@
-#banner{
+#banner {
     width: 100%;
 }
 
-.titulo-principal{
+.titulo-principal {
     text-transform: uppercase;
     text-align: center;
     color: brown;
     background-color: bisque;
+    padding: 30px;
 }
