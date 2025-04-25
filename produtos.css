@@ -18,6 +18,7 @@ nav{
 nav li{
     display: inline;
     margin: 0 0 0 15px;
+    color: green;
 }
 
 nav a{
